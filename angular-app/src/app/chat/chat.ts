@@ -188,3 +188,4 @@ getBotResponse(userMessage: string): string {
   // Respuesta por defecto
   return '🤖 Lo siento, no encontré información para esa consulta. Puedes preguntarme sobre celulares, laptops, audífonos, stock, envíos, pagos, garantías, pedidos o tiendas.';
 }
+`
